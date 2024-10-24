@@ -1,6 +1,6 @@
 ## EX NO:- 3 - Railway-Reservation-System
-## Name - SUBBIAH S
-## Reg No - 212223220111
+## Name - kirthick roshan j
+## Reg No - 212223040097
 ## AIM
 To Develope the Railway Reservation System using Star UML tool.
 
